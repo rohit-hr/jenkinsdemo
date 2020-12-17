@@ -11,7 +11,7 @@ namespace SampleJenkinsProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Jenkins !!");
-            Console.WriteLine("Added after first build in jenkins");
+            Console.WriteLine("Added after first build in jenkins")
         }
     }
 }
